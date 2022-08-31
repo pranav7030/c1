@@ -1,3 +1,0 @@
-gaandu
-mc
-bc
