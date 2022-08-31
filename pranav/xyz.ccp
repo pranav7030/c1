@@ -1,0 +1,3 @@
+gaandu 
+mc
+chutiya
